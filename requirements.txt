@@ -1,3 +1,0 @@
-eumdac==2.2.2
-requests
-satpy==0.54.0
