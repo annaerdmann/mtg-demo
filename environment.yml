@@ -5,5 +5,5 @@ channels:
 dependencies:
   # Core
   - conda-forge::requests
-  - conda-forge::satpy==0.54.0
-  - eumetsat::eumdac==2.2.2
+  - conda-forge::satpy
+  - eumetsat::eumdac
